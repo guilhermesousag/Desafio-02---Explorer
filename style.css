@@ -38,6 +38,12 @@ ul li a {
   color: var(--branco);
   font-size: 14px;
   line-height: 28px;
+  opacity: 0.8;
+}
+
+ul li a:hover {
+  font-weight: bold;
+  opacity: 1;
 }
 
 main {
@@ -95,6 +101,10 @@ footer p {
 footer p a {
   text-decoration: none;
   color: var(--branco);
+}
+
+footer p a:hover {
+  font-weight: bold;
 }
 
 #padlock {
