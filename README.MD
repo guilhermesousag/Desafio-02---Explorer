@@ -7,7 +7,6 @@ Projeto de introdução ao HTML e CSS, com o intuito de praticar e estudar.
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -26,6 +25,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 - Introdução ao HTML e CSS
+
+## 🏷️ Layout
+Você pode visualizar o layout do projeto através
+[desse link](https://www.figma.com/file/8vx7gx9TgGcHDqMAZJBE2k/Explorer-(Copy)?type=design&node-id=0-1&t=UffmChzmzxGCjxFv-0).
+É necessário ter uma conta no [Figma](https://www.figma.com)
 
 ## 💜 Contatos
 
